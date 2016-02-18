@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/soumitrachakravarti/pen/qbvqVZ.
-
- 
+A tribute page, a front-end project at FreeCodeCamp.
